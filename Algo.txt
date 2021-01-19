@@ -1,0 +1,11 @@
+Find best local pizza place
+Look over the menu
+choose crust
+choose ingredients
+compare pricing
+place order
+receive order confirmation
+wait for pizza to arrive
+tip delivery driver
+eat pizza
+review pizza quality
