@@ -9,3 +9,5 @@ wait for pizza to arrive
 tip delivery driver
 eat pizza
 review pizza quality
+make a review on google
+tell freinds how good pizza is
